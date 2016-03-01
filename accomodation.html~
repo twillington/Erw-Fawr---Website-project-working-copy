@@ -1,0 +1,109 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+		<title>Accommodation</title>
+		<link href="css/styles.css" rel="stylesheet" type="text/css" media="screen"/>
+
+	</head>
+
+	<body>
+	<div id="wrapper">			
+			<div id="top">
+			<h1>Accommodation</h1>
+			<div id="logo">
+				<img src="images/erwfawrlogo2.jpg"/>
+			</div>
+			<div id="contact"> 
+			<h3><a href=contacts.html>Contact Us Now</a></h3>
+			<ul> 
+				<li><img src="images/twitterlogo.png"/></li>
+				<li><img src="images/facebooklogo.png"/></li>
+			</ul>
+			</div>
+			</div>
+			<div id="topnav">
+				<ul>
+					<li><a href="home.html"> Home </a></li> 
+					<li><a href="accomodation.html"> Accomodation </a></li> 
+					<li><a href="cottage booking and availability.html"> Cottage Booking and Availabilty </a></li> 
+					<li><a href="links.html"> Links </a></li> 
+					<li><a href="membership.html"> Membership </a></li> 
+					<li><a href="newsletters.html"> Newsletters </a></li> 
+
+				</ul>
+			</div>
+			<div id="banner">
+			<img src="images/rockmountains.jpg" height="463" width="900"/> 
+			</div>
+			<div id="subbanner" style="width: 97%">
+				<h3> The Erw Fawr clubhouse is located in the heart of the welsh countryside </h3>
+			</div>
+			<div id="content">
+			<h1>The Erw Fawr Clubhouse</h1>
+			<p>The Erw Fawr Clubhouse is in a prime location for outdoor activites 
+			in the heart of the welsh mountains and with a village just down the road your not too far from civilisation at the same time.  </p>
+			<h2> A Brief Description of the property</h2>
+			<p>	Ground floor:
+				Lounge; With armchairs, bench seating, large dining table, multi fuel burner and CD/Radio.
+				Kitchen; Two cookers, microwave, three fridges, freezer, two sinks, worktops and storage area. All utensils, crockery, glasses and pots &#38;  pans provided.
+				Toilets; Three separate toilets with wash basins.
+				Shower room 1; Shower with toilet and wash basin
+				Shower room 2; Two showers and two wash basins.
+				Bedroom 1; Sleeps four (two bunks)
+				Bedroom 2; Sleeps four (two bunks)
+				Bedroom 3; Sleeps eight (four bunks)
+				First floor - this floor is not currently accessible due to ongoing works to replace the roof:
+				Large open plan area. 
+				Small bedroom; Sleeps two (bunks).
+				Medium bedroom; Sleeps four (two bunks).
+				All beds have full size mattresses with hygienic covers.
+			</p>
+			</div>
+			<div id="rightside">
+			<h2>Recent News</h2>
+			<p>	
+				Jobs completed on July 2012 Working Week-</p>
+			<p>	
+				End
+				Driveway pot holes repaired.
+			</p>
+			<p>	
+				Basin taps changed.
+			</p>
+			<p>	
+				Hallway and Snowdon bedroom emulsioned.</p>
+			<p>	
+				Kitchen wall partially boarded.
+			</p>
+			<p>	
+				Rear shower room mixer replaced.
+			</p>
+			<p>	
+				Tiling above cookers completed.
+			</p>
+			<p>	
+				The fire Alarm and Emergency lights were tested.
+			</p>
+			<p>	
+				Additional information - updated January 2013
+			</p>
+			<p>	
+				Annual fire safety risk assessment completed October 2012
+			</p>
+			<p>	
+				Our next major project will be to re-roof the main cottage building.
+			</p>
+			
+
+			</div>
+			<div id="footer"> 
+			<h3><a href=contacts.html>Contact Us Now</a></h3>
+			<p> &copy;Copyright 2013 Thomas Willington (Website Author) All rights reserved </p>
+			<p> Site Last Updated 23/01/2014 </p>
+			</div>
+			</div>
+	</body>
+
+</html>
